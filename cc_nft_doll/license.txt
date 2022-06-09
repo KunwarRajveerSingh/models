@@ -1,0 +1,11 @@
+Model Information:
+* title:	CC_NFT_Doll
+* source:	https://sketchfab.com/3d-models/cc-nft-doll-7e16d8bf81cc44b983c81296c38c573e
+* author:	imchencheng (https://sketchfab.com/imchencheng)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "CC_NFT_Doll" (https://sketchfab.com/3d-models/cc-nft-doll-7e16d8bf81cc44b983c81296c38c573e) by imchencheng (https://sketchfab.com/imchencheng) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

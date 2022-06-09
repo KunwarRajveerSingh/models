@@ -1,0 +1,11 @@
+Model Information:
+* title:	Futuristic Car - Gravity Sketch
+* source:	https://sketchfab.com/3d-models/futuristic-car-gravity-sketch-29845368b2e840b0924b1cc94b02ecb4
+* author:	3Donimus (https://sketchfab.com/3Donimus)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Futuristic Car - Gravity Sketch" (https://sketchfab.com/3d-models/futuristic-car-gravity-sketch-29845368b2e840b0924b1cc94b02ecb4) by 3Donimus (https://sketchfab.com/3Donimus) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
